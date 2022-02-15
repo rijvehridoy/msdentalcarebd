@@ -1,0 +1,60 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+/* ----------------Navbar-------------- */
+nav .bg-light {
+  background-color: aqua !important;
+}
+/* ------------Services------------ */
+.services .services-header {
+  border-bottom: 2px solid black;
+  background-color: rgb(255, 218, 95);
+  border-radius: 100px;
+}
+/* -------------Adult-------------- */
+.adultserv img {
+  background-size: cover !important;
+}
+.adultserv .card-body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 0);
+}
+.adultserv .card-body:hover {
+  color: rgb(255, 255, 255);
+  background: linear-gradient(rgb(0, 153, 255), blue);
+}
+.adultserv .servname {
+  font-weight: 700 !important;
+  letter-spacing: 0.3rem;
+}
+.adultserv .servimg {
+  margin-left: -25px;
+}
+.adultserv .card {
+  height: 650px;
+}
+/* -------------Footer---------------- */
+.footer {
+  background: linear-gradient(rgb(0, 153, 255), blue);
+  color: aliceblue;
+  margin-top: 20px;
+  padding-bottom: 5px;
+}
+.footer .contact {
+  text-align: center;
+  font-size: 20px;
+  border-bottom: 3px solid black;
+}
+.footer .col-md-4 .footer-logo {
+  margin-top: 10px;
+}
+.footer .col-md-4 {
+  margin-top: 20px;
+}
+.footer .col-md-4 i {
+  color: aliceblue;
+  padding: 5px;
+}
+.footer #fbicon {
+  height: 50px !important;
+}

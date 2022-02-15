@@ -1,0 +1,56 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  background: linear-gradient(to right, rgb(0, 153, 255), blue);
+}
+/* ----------------Navbar-------------- */
+.navbar .nav .bg-light {
+  background-color: aqua !important;
+}
+/* ---------Appointment---------- */
+.appointment .card {
+  border: 0px;
+  border-radius: 20px;
+  padding: 2rem;
+}
+
+.appointment h3 {
+  font-weight: 600;
+  background: linear-gradient(to right, rgb(0, 153, 255), blue);
+  color: aliceblue;
+  border-radius: 5rem;
+  padding: 0.5rem;
+}
+.appointment .btn {
+  border-radius: 20px;
+}
+/* -------------Footer---------------- */
+.footer {
+  background: linear-gradient(rgb(0, 153, 255), blue);
+  color: aliceblue;
+  margin-top: 20px;
+  padding-bottom: 5px;
+}
+.footer .contact {
+  text-align: center;
+  font-size: 20px;
+  border-bottom: 3px solid black;
+}
+.footer .col-md-4 .footer-logo {
+  margin-top: 10px;
+}
+.footer .col-md-4 {
+  margin-top: 20px;
+}
+.footer .col-md-4 i {
+  color: aliceblue;
+  padding: 5px;
+}
+.footer .social-icon {
+  text-decoration: none;
+}
+/* ----------------Copyright texts----------------- */
+.footer .copyright {
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  opacity: 70%;
+}
+/* ----------------Copyright texts end----------------- */
